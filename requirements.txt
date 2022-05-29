@@ -6,5 +6,4 @@ spacy
 pyresparser
 sklearn
 matplotlib
-string
 nltk
