@@ -2,8 +2,6 @@ numpy
 pandas
 streamlit
 docx2txt
-pdfminer.high_level
-import
 spacy
 pyresparser
 pickle
