@@ -1,6 +1,6 @@
 numpy
 pandas
-streamlit
+streamlit==0.75.0
 docx2txt
 pdfminer
 import
