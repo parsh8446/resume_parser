@@ -2,7 +2,7 @@ numpy
 pandas
 streamlit==0.75.0
 docx2txt
-pdfminer
+pdfminer-20191010
 import
 spacy
 pyresparser
