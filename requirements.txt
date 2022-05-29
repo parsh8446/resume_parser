@@ -1,1 +1,13 @@
+numpy
+pandas
+streamlit
+docx2txt
+re
+spacy
+pyresparser
+pickle
+sklearn
+matplotlib
+string
+nltk
 
