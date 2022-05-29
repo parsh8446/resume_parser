@@ -1,12 +1,9 @@
 numpy
 pandas
 streamlit
-re
 spacy
 pyresparser
-pickle
 sklearn
 matplotlib
-string
 nltk
 
