@@ -1,9 +1,0 @@
-numpy
-pandas
-streamlit
-docx2txt
-spacy
-pyresparser
-sklearn
-matplotlib
-nltk
