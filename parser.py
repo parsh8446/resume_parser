@@ -1,4 +1,5 @@
 #Importing Required Libraries
+pip install --upgrade pip
 import numpy as np
 import pandas as pd
 import streamlit as st
