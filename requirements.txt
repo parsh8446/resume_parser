@@ -1,8 +1,8 @@
 numpy
 pandas
-streamlit==0.75.0
+streamlit
 docx2txt
-pdfminer
+pdfminer.high_level
 import
 spacy
 pyresparser
