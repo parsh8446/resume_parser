@@ -4,7 +4,6 @@ streamlit
 docx2txt
 spacy
 pyresparser
-pickle
 sklearn
 matplotlib
 string
