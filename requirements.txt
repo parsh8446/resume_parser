@@ -6,11 +6,3 @@ pyresparser
 sklearn
 matplotlib
 nltk
-omw-1.4
-averaged_perceptron_tagger
-stopwords
-punkt
-wordnet
-maxent_ne_chunker
-words
-english
